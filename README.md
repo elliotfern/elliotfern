@@ -19,11 +19,11 @@
 
 ### 2022
 - **No-Ise** [Website: ](https://no-ise.com). WordPress + Multilingual. cPanel Hosting maintenance.
-- **Parra Muller** [Website: ](https://parramuller.com). WordPress + Multilingual + Yoast SEO.
-- **Bouvet** [Website: ](https://bouvet.world). WordPress + Multilingual + Yoast SEO. Plesk Hosting maintenance.
-- **InurbaMobility** [Website: ](https://inurbamobility.com). WordPress + Multilingual + MultiSite WP + Yoast SEO.
-- **Finguer** [Website: ](https://finguer.com). WordPress + WooCommerce + Multilingual + Yoast SEO. cPanel Hosting maintenance.
-- **Finguer Intranet** [GitHub repository:](https://github.com/elliotfern/). Intranet, PHP + JavaScript + CSS.
+- **Parra Muller** [Website 🌐](https://parramuller.com). WordPress + Multilingual + Yoast SEO.
+- **Bouvet** [Website 🌐](https://bouvet.world). WordPress + Multilingual + Yoast SEO. Plesk Hosting maintenance.
+- **InurbaMobility** [Website 🌐](https://inurbamobility.com). WordPress + Multilingual + MultiSite WP + Yoast SEO.
+- **Finguer** [Website 🌐](https://finguer.com). WordPress + WooCommerce + Multilingual + Yoast SEO. cPanel Hosting maintenance.
+- **Finguer Intranet** [GitHub repository 🌐](https://github.com/elliotfern/). Intranet, PHP + JavaScript + CSS.
 
 ## How to reach me?
 - 📫 **Email** [E-mail](mailto:elliotfernandez87@gmail.com)
