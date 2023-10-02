@@ -9,16 +9,16 @@
 - 👀 A list of my last works:
 
 ### 2023
-- **FlexiTub** [Website:](https://flexitub.com). Landing page + WordPress + Multilingual + Elementor Pro.
-- **Montcel Casa Rural** [Website: ](https://montcelcasarural.com). WordPress + Multilingual + Elementor Pro  + Yoast SEO.
-- **BoAcustics** [Website: ](https://boacustics.com). WordPress + WooCommerce + Multilingual + Elementor Pro + Yoast SEO. Google Analytics. cPanel Hosting maintenance.
-- **ESINEC** [Website: ](https://esinec.com). WordPress + LearnDash plugin (e-learning school). Google Analytics. cPanel Hosting maintenance.
-- **ESINEC Intranet** [GitHub repository:](https://github.com/elliotfern/esinec-intranet). Intranet, PHP + JavaScript, Ajax, jQuery, CSS.
-- **AlexComunica TV** [Website: ](https://www.alexcomunicatv.com/). WordPress + WooCommerce + Membership + Subscriptions + Yoast SEO. Google Analytics. cPanel Hosting maintenance.
-- **RoofPower** [Website: ](https://roofpower.net/). Landing Page + WordPress + Multilingual + Yoast SEO.
+- **FlexiTub** [Website 🌐](https://flexitub.com). Landing page + WordPress + Multilingual + Elementor Pro.
+- **Montcel Casa Rural** [Website 🌐](https://montcelcasarural.com). WordPress + Multilingual + Elementor Pro  + Yoast SEO.
+- **BoAcustics** [Website 🌐](https://boacustics.com). WordPress + WooCommerce + Multilingual + Elementor Pro + Yoast SEO. Google Analytics. cPanel Hosting maintenance.
+- **ESINEC** [Website 🌐](https://esinec.com). WordPress + LearnDash plugin (e-learning school). Google Analytics. cPanel Hosting maintenance.
+- **ESINEC Intranet** [GitHub repository 🌐](https://github.com/elliotfern/esinec-intranet). Intranet, PHP + JavaScript, Ajax, jQuery, CSS.
+- **AlexComunica TV** [Website 🌐](https://www.alexcomunicatv.com/). WordPress + WooCommerce + Membership + Subscriptions + Yoast SEO. Google Analytics. cPanel Hosting maintenance.
+- **RoofPower** [Website 🌐](https://roofpower.net/). Landing Page + WordPress + Multilingual + Yoast SEO.
 
 ### 2022
-- **No-Ise** [Website: ](https://no-ise.com). WordPress + Multilingual. cPanel Hosting maintenance.
+- **No-Ise** [Website 🌐](https://no-ise.com). WordPress + Multilingual. cPanel Hosting maintenance.
 - **Parra Muller** [Website 🌐](https://parramuller.com). WordPress + Multilingual + Yoast SEO.
 - **Bouvet** [Website 🌐](https://bouvet.world). WordPress + Multilingual + Yoast SEO. Plesk Hosting maintenance.
 - **InurbaMobility** [Website 🌐](https://inurbamobility.com). WordPress + Multilingual + MultiSite WP + Yoast SEO.
