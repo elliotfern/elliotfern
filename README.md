@@ -1,14 +1,17 @@
+## Who I am?
 - 👋 Hi, I’m [ @elliotfern](https://github.com/elliotfern/) (Elliot Fernandez). I was born in Barcelona (Spain) in 1987. I'm a BA in Modern History at the Universitat Autonoma de Barcelona in 2009 and MA in World History at Pompeu Fabra University finished in 2011 with Master's thesis about Modern French History. Between 2017 and 2022 I worked as a Front-end developer and co-founder of Hispano Atlantic Consulting Ltd, HispanTIC. Now I'm a full-stack developer freelance.
 
-- 🌱 I’m currently learning JavaScript libraries like React, React Native and PHP frameworks like Laravel.
+## What I do and what I am learning?
+- 🌱 As a full-stack developer, I'm currently work with PHP programming language, HTML, CSS (Boostrap v5) and JavaScript. 
+- In September 2023 I finished a Bootcamp where I learned JavaScript libraries like React and others technologies as Node.js, Express.js and MongoDB. I'm also learning React Native and PHP frameworks like Laravel.
 
-- 👀 My works as a front-end developer are:
+## My works as a front-end developer
+- 👀 A list of my last works:
 
 ### 2023:
-- 
 
-- 📫 How to reach me:
-- **email** [E-mail](elliotfernandez87[@]gmail.com)
+## ow to reach me?
+- 📫 **email** [E-mail](mailto:elliotfernandez87[@]gmail.com)
 - **website** [Elliotfern.com](https://elliotfern.com)
 - **GitHub profile** [Github Profile](https://github.com/elliotfern/))
 
