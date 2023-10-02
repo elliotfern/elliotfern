@@ -10,10 +10,10 @@
 
 ### 2023:
 
-## ow to reach me?
-- 📫 **email** [E-mail](mailto:elliotfernandez87[@]gmail.com)
-- **website** [Elliotfern.com](https://elliotfern.com)
-- **GitHub profile** [Github Profile](https://github.com/elliotfern/))
+## How to reach me?
+- 📫 **email** [E-mail](mailto:elliotfernandez87@gmail.com)
+- 🌐 **website** [Elliotfern.com](https://elliotfern.com)
+- 🔗 **GitHub profile** [Github Profile](https://github.com/elliotfern/)
 
 <!---
 elliotfer/elliotfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
