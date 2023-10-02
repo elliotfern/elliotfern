@@ -4,13 +4,13 @@
 
 - 👀 My works as a front-end developer are:
 
-## 2023:
+### 2023:
 - 
 
 - 📫 How to reach me:
-- **email** elliotfernandez87[@]gmail.com
+- **email** [E-mail](elliotfernandez87[@]gmail.com)
 - **website** [Elliotfern.com](https://elliotfern.com)
-- **GitHub profile** [Github](https://github.com/elliotfern/))
+- **GitHub profile** [Github Profile](https://github.com/elliotfern/))
 
 <!---
 elliotfer/elliotfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
