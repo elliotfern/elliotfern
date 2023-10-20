@@ -16,6 +16,7 @@
 - **ESINEC Intranet** [GitHub repository 🌐](https://github.com/elliotfern/esinec-intranet). Intranet, PHP + JavaScript, Ajax, jQuery, CSS.
 - **AlexComunica TV** [Website 🌐](https://www.alexcomunicatv.com/). WordPress + WooCommerce + Membership + Subscriptions + Yoast SEO. Google Analytics. cPanel Hosting maintenance.
 - **RoofPower** [Website 🌐](https://roofpower.net/). Landing Page + WordPress + Multilingual + Yoast SEO.
+- **Mexilla** [Website 🌐](https://mexilla.es/). WordPress + Elementor Pro + Yoast SEO. Google Analytics. cPanel Hosting maintenance.
 
 ### 2022
 - **No-Ise** [Website 🌐](https://no-ise.com). WordPress + Multilingual. cPanel Hosting maintenance.
@@ -27,8 +28,9 @@
 
 ## How to reach me?
 - 📫 **Email** [E-mail](mailto:elliotfernandez87@gmail.com)
-- 🌐 **Website** [Elliotfern.com](https://elliotfern.com)
+- 🌐 **My Website** [Elliotfern.com](https://elliotfern.com)
 - 🔗 **GitHub profile** [Github Profile](https://github.com/elliotfern/)
+- 🔗 **Linkedin profile** [Linkedin Profile]([https://github.com/elliotfern/](https://www.linkedin.com/in/elliot-fernandez/))
 
 <!---
 elliotfer/elliotfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
