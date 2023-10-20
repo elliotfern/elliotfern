@@ -31,9 +31,10 @@
 - 🌐 **My Website** [Elliotfern.com](https://elliotfern.com)
 - 🔗 **GitHub profile** [Github Profile](https://github.com/elliotfern)
 - 🔗 **Linkedin profile** [Linkedin Profile](https://www.linkedin.com/in/elliot-fernandez)
-- 🔗 **Mastodon profile** [Mastodon Profile](<link href="https://c.im/@elliot" rel="me">)
+- 🔗 **Mastodon profile** [Mastodon Profile](https://c.im/@elliot)
 
 <!---
 elliotfer/elliotfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<link href="https://c.im/@elliot" rel="me">
