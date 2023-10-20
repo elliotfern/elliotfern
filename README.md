@@ -30,7 +30,7 @@
 - 📫 **Email** [E-mail](mailto:elliotfernandez87@gmail.com)
 - 🌐 **My Website** [Elliotfern.com](https://elliotfern.com)
 - 🔗 **GitHub profile** [Github Profile](https://github.com/elliotfern/)
-- 🔗 **Linkedin profile** [Linkedin Profile]([https://github.com/elliotfern/](https://www.linkedin.com/in/elliot-fernandez/))
+- 🔗 **Linkedin profile** [Linkedin Profile](https://github.com/elliotfern/](https://www.linkedin.com/in/elliot-fernandez/)
 
 <!---
 elliotfer/elliotfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
