@@ -5,8 +5,12 @@
 - 🌱 As a full-stack developer, I'm currently work with PHP programming language, HTML, CSS (Boostrap v5) and JavaScript. 
 - In September 2023 I finished a Bootcamp where I learned JavaScript libraries like React and others technologies as Node.js, Express.js and MongoDB. I'm also learning React Native and PHP frameworks like Laravel.
 
-## My works as a front-end developer
+## My works as a Freelance Front-end developer
 - 👀 A list of my last works:
+
+### 2024
+- **Finguer** [Website 🌐](https://finguer.com). New site redesign with JavaScript and HTML for the frontend side and PHP for the backend. Use of API for connection to payment gateway.
+- **Memoria Històrica de Terrassa**. In development. New website with React and PHP.
 
 ### 2023
 - **FlexiTub** [Website 🌐](https://flexitub.com). Landing page + WordPress + Multilingual + Elementor Pro.
