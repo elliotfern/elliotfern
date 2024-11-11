@@ -5,6 +5,18 @@
 - 🌱 As a full-stack developer, I'm currently work with PHP programming language, HTML, CSS (Boostrap v5) and JavaScript. 
 - In September 2023 I finished a Bootcamp where I learned JavaScript libraries like React and others technologies as Node.js, Express.js and MongoDB. I'm also learning React Native and PHP frameworks like Laravel.
 
+## Programming languages ​​I know
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) JavaScript
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) TypeScript
+- ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white) Java
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3
+- ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2300A92D?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
+
+
 ## My works as a Freelance Front-end developer
 - 👀 A list of my last works:
 
